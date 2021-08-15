@@ -1,0 +1,8 @@
+{
+  "name": "Date",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1731fb19"
+}
